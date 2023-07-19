@@ -1,0 +1,1 @@
+print("Netti + entry course")
